@@ -6,3 +6,6 @@ Temp/
 *.userprefs
 *.unityproj
 *.DS_Store
+.vscode
+Logs/
+Packages/
